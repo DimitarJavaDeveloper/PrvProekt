@@ -1,0 +1,52 @@
+int x=8, y=5;
+int rezultat =x%y;
+int x=6/4'
+y=?
+
+class Jabolki{
+public main(String[]args){
+string ime="Filip"
+int godini=24;
+double visina=189.87;
+}
+}
+
+class Ucenik{
+void main(String[]args){
+int godini=20;
+string ime="Dimitar";
+double visina=181;
+string zivotno mesto="Skopje"
+Systemout.println(
+ 
+
+public class Ucenik{
+public static void main(String[]args){
+int godini=20;
+String ime="Dimitar";
+double visina=181;
+
+System.out.println("Kopje");
+System.out.println(ime);
+System.out.println(visina);
+
+}
+}
+
+public class Main{
+    public static void main(String[]args)
+{
+int evra=500;
+double denari=evra*61.5;
+System.out.println("evra");
+System.out.println(denari);
+}
+}
+public class Main{
+    public static void(String[]args)
+{
+double evra=500;
+double=evra*61.5;
+System.out.println("Vrednosta na "+ evra + "e" + denari + "denari");
+}
+}
